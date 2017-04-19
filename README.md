@@ -1,4 +1,4 @@
-# Lodash Loader
+# Unicode Regex Loader
 
 [![NPM](https://img.shields.io/npm/v/unicode-regex-loader.svg)](https://www.npmjs.com/package/unicode-regex-loader)
 [![Greenkeeper badge](https://badges.greenkeeper.io/code-chris/unicode-regex-loader.svg)](https://greenkeeper.io/)
