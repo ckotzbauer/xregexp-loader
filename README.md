@@ -1,16 +1,16 @@
-# Unicode Regex Loader
+XRegexp Loader
 
-[![NPM](https://img.shields.io/npm/v/unicode-regex-loader.svg)](https://www.npmjs.com/package/unicode-regex-loader)
-[![Greenkeeper badge](https://badges.greenkeeper.io/code-chris/unicode-regex-loader.svg)](https://greenkeeper.io/)
+[![NPM](https://img.shields.io/npm/v/xregexp-loader.svg)](https://www.npmjs.com/package/xregexp-loader)
+[![Greenkeeper badge](https://badges.greenkeeper.io/code-chris/xregexp-loader.svg)](https://greenkeeper.io/)
 
 
-Transforms unicode regular expressions to valid ES5 regular expressions.
+Transforms XRegexp constructor calls to valid ES5 regular expressions.
 
 
 ## Installation
 
 ```
-npm install unicode-regex-loader
+npm install xregexp-loader
 ```
 
 
@@ -23,7 +23,7 @@ module.exports = {
   ...
   module: {
     rules: [
-	    { test: /\.js$/, loader: "babel-loader!unicode-regex-loader" }
+	    { test: /\.js$/, loader: "babel-loader!xregexp-loader" }
 	  ]
   }
   ...
@@ -31,5 +31,5 @@ module.exports = {
 ```
 
 
-[License](https://github.com/code-chris/unicode-regex-loader/blob/master/LICENSE)
+[License](https://github.com/code-chris/xregexp-loader/blob/master/LICENSE)
 ------

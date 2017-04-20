@@ -1,25 +1,24 @@
 {
-  "name": "unicode-regex-loader",
+  "name": "xregexp-loader",
   "version": "1.0.0",
-  "description": "Transforms unicode regular expressions to valid ES5 regular expressions.",
+  "description": "Transforms XRegexp constructor calls to valid ES5 regular expressions.",
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/code-chris/unicode-regex-loader.git"
+    "url": "git+https://github.com/code-chris/xregexp-loader.git"
   },
   "keywords": [
     "webpack",
-    "unicode",
-    "regex",
+    "xregexp",
     "loader",
     "webpack-loader"
   ],
   "author": "Christian Kotzbauer <christian.kotzbauer@gmail.com>",
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/code-chris/unicode-regex-loader/issues"
+    "url": "https://github.com/code-chris/xregexp-loader/issues"
   },
-  "homepage": "https://github.com/code-chris/unicode-regex-loader#readme",
+  "homepage": "https://github.com/code-chris/xregexp-loader#readme",
   "dependencies": {
     "xregexp": "~3.2.0"
   }
