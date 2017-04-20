@@ -1,4 +1,4 @@
-XRegexp Loader
+# XRegexp Loader
 
 [![NPM](https://img.shields.io/npm/v/xregexp-loader.svg)](https://www.npmjs.com/package/xregexp-loader)
 [![Greenkeeper badge](https://badges.greenkeeper.io/code-chris/xregexp-loader.svg)](https://greenkeeper.io/)
