@@ -23,8 +23,8 @@ module.exports = {
   ...
   module: {
     rules: [
-	    { test: /\.js$/, loader: "babel-loader!xregexp-loader" }
-	  ]
+      { test: /\.js$/, loader: "babel-loader!xregexp-loader" }
+    ]
   }
   ...
 };
