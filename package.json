@@ -1,6 +1,6 @@
 {
   "name": "xregexp-loader",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Transforms XRegexp constructor calls to valid ES5 regular expressions.",
   "main": "index.js",
   "repository": {
